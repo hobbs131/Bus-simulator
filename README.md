@@ -1,5 +1,7 @@
 # Bus-simulator
 
+  Minneapolis Metro bus simulator -- finds optimal number of express and normal buses to be deployed around the clock.
+
 # Instructions
   - run Main.java, # of buses/starting positions/ of buses can be varied in Main. Run-time of simulation is 
     also varied in Main. Inter-arrival rate can be varied in RiderEvent.java
