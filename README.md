@@ -1,6 +1,6 @@
 # Bus-simulator
 
-  Minneapolis Metro bus simulator -- finds optimal number of express and normal buses to be deployed around the clock.
+  - Minneapolis Metro bus simulator -- finds optimal number of express and normal buses to be deployed around the clock.
 
 # Instructions
   - run Main.java
